@@ -35,4 +35,5 @@
 	shallow = true
 [submodule "modules/bogged-zsh-theme"]
 	path = modules/bogged-zsh-theme
+	branch = "master"
 	url = git@github.com:actioninja/bogged-zsh-theme.git
