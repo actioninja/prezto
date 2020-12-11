@@ -33,3 +33,6 @@
 	path = modules/prompt/external/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
 	shallow = true
+[submodule "modules/bogged-zsh-theme"]
+	path = modules/bogged-zsh-theme
+	url = git@github.com:actioninja/bogged-zsh-theme.git
